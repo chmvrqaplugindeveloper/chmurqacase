@@ -1,1 +1,3 @@
 "# chmurqacase" 
+
+Nie udostepniaj pluginu!

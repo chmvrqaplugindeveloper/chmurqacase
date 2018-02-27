@@ -1,0 +1,5 @@
+name: ChmurqaCase by itzchmurqa_
+version: 1.0
+main: pl.itzchmurqa.chmurqacase.Main
+commands:
+  skrzynka:
